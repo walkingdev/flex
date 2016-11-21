@@ -1,7 +1,7 @@
 ---
 title: Inscriptions Flexbox V-?
 description: Liste pour s'inscrire à la session Flexbox V-?
-image_url: https://github.com/walkingdev/flex/blob/master/media/banner-flexbox.jpg?raw=true
+image_url: https://github.com/walkingdev/flex/blob/master/media/banner-flex.jpg?raw=true
 ---
 
 #### Inscriptions
