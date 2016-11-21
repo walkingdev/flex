@@ -1,7 +1,7 @@
 ---
 title: Faq Flexbox V-?
 description: Et si on centrait verticalemet des éléments en marchant à l'horizontal autour de ?.
-image_url: https://github.com/walkingdev/flex/blob/master/media/banner-flex.jpg?raw=true
+image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
 ---
 
 # Session ELM - V-34
@@ -40,7 +40,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, de quoi grignotter entre les repas et de quoi t’habiller confortablement pour marcher.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/flex/blob/master/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/flexbox/blob/master/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -51,7 +51,7 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 ### Je m'inscris où ?
 
 Il n'y a pas encore de date ni de lieu mais la solution est déjà en place.
-En éditant et remplissant le fichier qui va bien [inscriptions.md](https://github.com/walkingdev/flex/edit/master/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+En éditant et remplissant le fichier qui va bien [inscriptions.md](https://github.com/walkingdev/flexbox/edit/master/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
 
 Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@entre-quote.com)
 

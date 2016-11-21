@@ -1,7 +1,7 @@
 ---
 title: Budget Flexbox V-?
 description: Liste des dépenses/recettes de Flexbox V-?
-image_url: https://github.com/walkingdev/flex/blob/master/media/banner-flex.jpg?raw=true
+image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
 ---
 
 # Dépenses
