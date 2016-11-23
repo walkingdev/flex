@@ -1,5 +1,5 @@
 ---
-title: Budget Flexbox V-?
+title: Budget Flexbox V-34
 description: Liste des dépenses/recettes de Flexbox V-34
 image_url:
 ---
