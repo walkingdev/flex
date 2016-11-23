@@ -1,7 +1,7 @@
 ---
-title: Inscriptions Flexbox V-?
-description: Liste pour s'inscrire à la session Flexbox V-?
-image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
+title: Inscriptions Flexbox V-34
+description: Liste pour s'inscrire à la session Flexbox V-34
+image_url:
 ---
 
 #### Inscriptions
@@ -11,3 +11,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/flexbox/bl
 
 * *nom - prénom - moyens de contact *
 
+Fuentes - Loïc - fuentes.loic@gmail.com - 06.26.91.57.46 - [@fuentes_loic](https://twitter.com/fuentes_loic)
