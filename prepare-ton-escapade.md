@@ -1,5 +1,5 @@
 ---
-title: Prépare ton escapade Flexbox V-?
+title: Prépare ton escapade Flexbox V-34
 description: Une petite exploration ça se prépare, on t’a listé ce qui nous paraissait indispensable (ou pas).
 image_url:
 ---
