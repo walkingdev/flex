@@ -4,7 +4,7 @@ description: Une petite exploration ça se prépare, on t’a listé ce qui nous
 image_url:
 ---
 
-# Session Flexbox - V-?
+# Session Flexbox - V-34
 
 ## Ta préparation
 
@@ -27,7 +27,7 @@ image_url:
 
 * 2 rallonges
 * 2 multi-prises
-* 1 vidéo-proj
+* 1 vidéo-proj (voir avec Stéph)
 * 2/3 adaptateurs hdmi - vga
 * 2/3 cables hdmi - vga
 * 1 trousse : marqueurs, post-it, crayons, papiers,
