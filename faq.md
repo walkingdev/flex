@@ -17,14 +17,13 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le à 9h30  - .
+La marche commencera le à 9h30  -
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
 
 - Les personnes devant créer des interfaces avec HTML et CSS, débutants ou confirmées.
 - Tous ceux qui veulent en apprendre plus sur la mise en page d'un site.
-
 
 ### Je me sens pas au niveau…
 
@@ -34,7 +33,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### On sera combien ?
 
-~~Au moins 2, maximum 8, probablement 6~~. 
+Au moins 2, maximum 8, probablement 6.
 
 ### Il faut que je prévois des trucs ?
 
@@ -69,7 +68,7 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-### Pourquoi V-? ?
+### Pourquoi V-34 ?
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
@@ -78,4 +77,4 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 Tu peux contacter :  
 - Erick - [@newick](http://twitter.com/newick) (dm ouvert)  
 ou  
-- Loïc
+- Loïc - [@fuentes_loic](https://twitter.com/fuentes_loic) (dm ouvert aussi)
