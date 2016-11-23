@@ -1,7 +1,7 @@
 ---
 title: Prépare ton escapade Flexbox V-?
 description: Une petite exploration ça se prépare, on t’a listé ce qui nous paraissait indispensable (ou pas).
-image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
+image_url:
 ---
 
 # Session Flexbox - V-?
