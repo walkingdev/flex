@@ -1,5 +1,5 @@
 ---
-title: Faq Flexbox V-?
+title: Faq Flexbox V-34
 description: Et si on centrait verticalemet des éléments en marchant à l'horizontal autour de ?.
 image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
 ---
