@@ -8,6 +8,7 @@ image_url:
 
 ## Préparation
 
+- Fairview : 12€ (e)
 
 ## WalkingDev
 
