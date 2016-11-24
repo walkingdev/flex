@@ -1,6 +1,6 @@
 ---
 title: Faq Flexbox V-34
-description: Et si on centrait verticalemet des éléments en marchant à l'horizontal autour de ?.
+description: Et si on centrait verticalemet des éléments en marchant à l'horizontal autour de Montpellier.
 image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
 ---
 
@@ -17,7 +17,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le à 9h30  -
+La marche commencera le (à peu près) 26/01/2017 à 9h30  -
 Et, ça se termine vers 18h30.
 
 ### C'est pour qui ?
