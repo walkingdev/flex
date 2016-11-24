@@ -4,7 +4,7 @@ description: Et si on centrait verticalemet des éléments en marchant à l'hori
 image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbox.jpg?raw=true
 ---
 
-# Session ELM - V-34
+# Session Flexbox - V-34
 
 ## FAQ
 
@@ -54,13 +54,13 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 ### Je m'inscris où ?
 
 Il n'y a pas encore de date ni de lieu mais la solution est déjà en place.
-En éditant et remplissant le fichier qui va bien [inscriptions.md](https://github.com/walkingdev/flexbox/edit/master/inscriptions.md) - et en précisant dans quelle ville tu souhaiterais qu'elle se déroule.
+En éditant et remplissant le fichier qui va bien [inscriptions.md](https://github.com/walkingdev/flexbox/edit/master/inscriptions.md).
 
 Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@entre-quote.com)
 
 ### Ça coûte combien cette petite escapade ?
 
-59 € TTC pour les particuliers, et 89 € si c’est ta boite qui paye.
+49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye.
 
 On pense que ça correspond à peu près à ce que tu vas manger, boire, et aux billets qui te permettront de te déplacer sans frauder.
 
