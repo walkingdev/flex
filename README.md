@@ -7,7 +7,9 @@
 Découvrir ensemble les propriétés CSS3 **flexbox** afin de passer d'un positionnement 
 
 > **C**hiant et **S**érieusement **S**oporifique 
+
 > à 
+
 > **C**arrément **S**imple et **S**timulant 
 
 <cite>© pntbr</cite>
