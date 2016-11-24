@@ -17,8 +17,12 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le (à peu près) 26/01/2017 à 9h30  -
+La marche commencera le (très certainement) 26/01/2017 à 9h30.
 Et, ça se termine vers 18h30.
+
+Ça sera à Montpellier et autour, lieu de retrouvailles à confirmer.
+
+Si tu veux le faire dans ta ville, propose le dans [ce fichier](http://walkingdev.fr/#walkingdev/flexbox/blob/master/autres-villes.md)
 
 ### C'est pour qui ?
 
