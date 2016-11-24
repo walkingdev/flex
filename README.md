@@ -18,14 +18,12 @@ Découvrir ensemble les propriétés CSS3 **flexbox** afin de passer d'un positi
 ## Objectifs primaires
 ---------------------
 
-- Rendre lisible, modifiable et partageable un rédactionnel :
-- Fournir à des rédacteurs un outil d'écriture et de stockage libre en ligne,
-- Fournir à des lecteurs un outil de lecture limitant le bruit visuel permettant de rester focus sur le contenu,
-- Fournir à des explorateurs un outil permettant de visualiser puis naviguer à travers des repositories, des dépôts et des fiches.
-
-simplifier le positionnement 
-Oublier float
-utiliser les derniers technos CSS disponibles compatibles sur la "majorité" des navigateurs
+- Découvrir une propriété CSS d'une manière différente
+- Simplifier le positionnement des élements d'une interface en CSS
+- Avoir une solution alternative aux autres techniques de positionnement
 
 ## Objectifs secondaires
 ----------------------
+
+- Comprendre la notion parent / enfant et d'héritage en CSS
+- Se tenir à jour sur les évolutions du CSS
