@@ -1,4 +1,4 @@
-# Flexbox, flexbox m'a sauver
+# Flexbox... m'a sauver
 ---------
 
 ## Vision
