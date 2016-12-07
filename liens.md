@@ -13,6 +13,7 @@ image_url:
 - [Jake in the flexbox](http://jackintheflexbox.tumblr.com/)
 - [Cheatsheet Alsacréations - PDF] (http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf)
 - [Traduction du guide de CSS Tricks](https://la-cascade.io/flexbox-guide-complet/)
+- [Flexbugs](https://github.com/philipwalton/flexbugs)
 
 
 ### Comprendre le fonctionneemnt
