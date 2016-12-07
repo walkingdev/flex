@@ -12,6 +12,7 @@ image_url:
 - [Alsacréations - Raphaël Goetter - Flex c'est la vie](http://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
 - [Jake in the flexbox](http://jackintheflexbox.tumblr.com/)
 - [Cheatsheet Alsacréations - PDF] (http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf)
+- [Traduction du guide de CSS Tricks](https://la-cascade.io/flexbox-guide-complet/)
 
 
 ### Jeux pour comprendre le fonctionneemnt
