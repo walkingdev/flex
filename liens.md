@@ -15,7 +15,9 @@ image_url:
 - [Traduction du guide de CSS Tricks](https://la-cascade.io/flexbox-guide-complet/)
 
 
-### Jeux pour comprendre le fonctionneemnt
+### Comprendre le fonctionneemnt
 
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
+- [CSS Flexbox Please !](http://demo.agektmr.com/flexbox/)
+- [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
