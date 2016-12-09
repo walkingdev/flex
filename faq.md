@@ -53,7 +53,6 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 
 ### Je m'inscris où ?
 
-Il n'y a pas encore de date ni de lieu mais la solution est déjà en place.
 En éditant et remplissant le fichier qui va bien [inscriptions.md](https://github.com/walkingdev/flexbox/edit/master/inscriptions.md).
 
 Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@entre-quote.com)
@@ -62,7 +61,7 @@ Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@
 
 49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye.
 
-On pense que ça correspond à peu près à ce que tu vas manger, boire, et aux billets qui te permettront de te déplacer sans frauder.
+On pense que ça correspond à peu près à ce que tu vas manger/boire (hors midi) et aux billets qui te permettront de te déplacer sans frauder, si on prends le tram/bus.
 
 ### Et si c’est trop cher pour moi ?
 
@@ -70,7 +69,13 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 ### On mangera quoi ?
 
-Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
+Deux solutions s'offrent à toi:
+
+- Tu ramène juste ta gamèle et, comme à la maison, met tes deux pieds sous la table  
+
+ou
+
+- Tu prends ces deux même pieds et, tout proche, nous te montrerons où commander.
 
 ### Pourquoi V-34 ?
 
