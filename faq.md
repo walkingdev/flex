@@ -26,7 +26,7 @@ Si tu veux le faire dans ta ville, propose le dans [ce fichier](http://walkingde
 
 ### C'est pour qui ?
 
-- Les personnes devant créer des interfaces avec HTML et CSS, débutants ou confirmées.
+- Les personnes devant créer des interfaces avec HTML et CSS, débutantes ou confirmées.
 - Tous ceux qui veulent en apprendre plus sur la mise en page d'un site.
 
 ### Je me sens pas au niveau…
@@ -71,7 +71,7 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Deux solutions s'offrent à toi:
 
-- Tu ramène juste ta gamèle et, comme à la maison, met tes deux pieds sous la table  
+- Tu ramènes juste ta gamèle et, comme à la maison, mets tes deux pieds sous la table  
 
 ou
 
