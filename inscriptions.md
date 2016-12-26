@@ -11,5 +11,6 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/flexbox/bl
 
 * *nom - prénom - moyens de contact *
 
-Fuentes - Loïc - fuentes.loic@gmail.com - 06 26 91 57 46 - [@fuentes_loic](https://twitter.com/fuentes_loic)
-Gardin - Erick - erick@entre-quote.co - 06 78 33 74 12 - [@newick](https://twitter.com/newick)
+Fuentes - Loïc - fuentes.loic@gmail.com - 06 26 91 57 46 - [@fuentes_loic](https://twitter.com/fuentes_loic)  
+Gardin - Erick - erick@entre-quote.co - 06 78 33 74 12 - [@newick](https://twitter.com/newick)  
+Langlois - Stéphane - [@langlois_s](https://twitter.com/langlois_s) - 
