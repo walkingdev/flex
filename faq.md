@@ -17,10 +17,10 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le (très certainement) 26/01/2017 à 9h30.
+La marche commencera le 26/01/2017 à 9h30.
 Et, ça se termine vers 18h30.
 
-Ça sera à Montpellier et autour, lieu de retrouvailles à confirmer.
+Ça sera à Montpellier, on se retrouvera au [café Bun](https://www.facebook.com/BUNcafe/about/).
 
 Si tu veux le faire dans ta ville, propose le dans [ce fichier](http://walkingdev.fr/#walkingdev/flexbox/blob/master/autres-villes.md)
 
@@ -59,27 +59,13 @@ Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@
 
 ### Ça coûte combien cette petite escapade ?
 
-49 € TTC pour les particuliers, et 69 € si c’est ta boite qui paye.
+59 € TTC pour les particuliers, et 79 € si c’est ta boite qui paye.
 
-On pense que ça correspond à peu près à ce que tu vas manger/boire (hors midi) et aux billets qui te permettront de te déplacer sans frauder, si on prends le tram/bus.
+On pense que ça correspond à peu près à ce que tu vas manger/boire et aux billets qui te permettront de te déplacer sans frauder, si on prends le tram/bus.
 
 ### Et si c’est trop cher pour moi ?
 
 Ne te prive pas de cette super journée pour des problèmes matériels, contacte-nous, ensemble on va bien trouver une solution ? 
-
-### On mangera quoi ?
-
-Deux solutions s'offrent à toi:
-
-- Tu ramènes juste ta gamèle et, comme à la maison, mets tes deux pieds sous la table  
-
-ou
-
-- Tu prends ces deux même pieds et, tout proche, nous te montrerons où commander.
-
-### Pourquoi V-34 ?
-
-C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
 #### Et si j'ai une question ?
 
