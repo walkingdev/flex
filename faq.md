@@ -59,7 +59,7 @@ Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@
 
 ### Ça coûte combien cette petite escapade ?
 
-59 € TTC pour les particuliers, et 79 € si c’est ta boite qui paye.
+59 € TTC pour les particuliers, et 89 € si c’est ta boite qui paye.
 
 On pense que ça correspond à peu près à ce que tu vas manger/boire et aux billets qui te permettront de te déplacer sans frauder, si on prends le tram/bus.
 
