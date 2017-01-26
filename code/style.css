@@ -3,30 +3,27 @@ body {
   font-size: initial;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 section {
   display: flex;
-/*  flex-direction: column;*/
-/*  justify-content: space-between;*/
-/*
-  align-items: stretch;
-  align-content: stretch;
-*/
-  flex-wrap: nowrap;
-  height: 10rem;
-  border: 1px solid black;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  border: 1px solid #000;
+  background-color: #ccc;
 }
 
 article {
-  border: 1px solid grey;
+  display: block;
+  width: 30px;
+  height: 30px;
+  background-color: #0F0;
+  border-radius: 50%;
 }
 
-.row {
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: flex-end;
-}
-.column {
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-start;
-}
