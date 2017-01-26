@@ -22,6 +22,22 @@ article:last-child {
   align-self: flex-start;
 }
 
-article:nth-child(even) {
+/*article:nth-child(even) {
   background-color: yellow;
+}*/
+
+article:nth-child(1) { /*Lorem*/
+  order: 3;
+}
+
+article:nth-child(2) { /*1234*/
+  order: 100;
+}
+
+article:nth-child(3) { /*machin*/
+  order: 4;
+}
+
+article:nth-child(4) { /*bloop*/
+  order: 1;
 }
