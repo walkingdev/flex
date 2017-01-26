@@ -60,3 +60,13 @@ article {
 .dice-3-2 article:last-child {
   align-self: flex-end;
 }
+
+.dice-4 {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+/*
+.dice-4 article:nth-child(2) {
+  align-self: flex-end;
+}*/
