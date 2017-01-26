@@ -15,7 +15,6 @@ section {
 
 article {
     border: 1px solid grey;
-    width: 33%;
 }
 
 article:last-child {
@@ -28,16 +27,20 @@ article:last-child {
 
 article:nth-child(1) { /* Lorem*/
   order: 3;
+  flex-grow: 1;
 }
 
 article:nth-child(2) { /*1234*/
   order: 100;
+  flex-grow: 1;
 }
 
 article:nth-child(3) { /*machin*/
   order: 4;
+  flex-grow: 1;
 }
 
 article:nth-child(4) { /*bloop*/
   order: 1;
+  flex-grow: 3;
 }
