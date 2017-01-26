@@ -5,10 +5,12 @@ body {
 
 section {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+/*  flex-direction: column;*/
+/*  justify-content: space-between;*/
+/*
   align-items: stretch;
   align-content: stretch;
+*/
   flex-wrap: nowrap;
   height: 10rem;
   border: 1px solid black;
@@ -16,42 +18,15 @@ section {
 
 article {
   border: 1px solid grey;
-  flex-basis: 0;
 }
 
-
-.grow {
-  flex-grow: 1;
-  flex-shrink: 1;
+.row {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
 }
-.grow:first-child {
-  flex-grow: 2;
-  flex-shrink: 1;
-}
-.grow:nth-child(2) {
-
-}
-.grow:nth-child(3) {
-
-}
-.grow:last-child {
-
-}
-
-.shrink {
-  flex-grow: 1;
-  flex-shrink: 1;
-}
-.shrink:first-of-type {
-  flex-shrink: 10;
-  flex-grow: 2;
-}
-.shrink:nth-of-type(2) {
-
-}
-.shrink:nth-of-type(3) {
-
-}
-.shrink:last-of-type {
-
+.column {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
 }
