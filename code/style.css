@@ -17,3 +17,11 @@ article {
     border: 1px solid grey;
     width: 33%;
 }
+
+article:last-child {
+  align-self: flex-start;
+}
+
+article:nth-child(even) {
+  background-color: yellow;
+}
