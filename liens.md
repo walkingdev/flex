@@ -22,3 +22,4 @@ image_url:
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Flexbox Please !](http://demo.agektmr.com/flexbox/)
 - [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
+- [Comprendre Flexbox en recevant par email une histoire de zombies] (http://gedd.ski/master/flexbox/)
