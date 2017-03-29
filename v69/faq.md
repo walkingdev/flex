@@ -25,7 +25,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 19/03/2017 à 9h00.
+La marche commencera le 19/04/2017 à 9h00.
 Et, ça se termine vers 18h00.
 
 Ça sera à Lyon, on se retrouvera au [Slake Coffee House](http://slake-coffee.com/) - [9 Rue de l'Ancienne Préfecture - 69002 lyon](http://www.openstreetmap.org/node/1883842740) .
