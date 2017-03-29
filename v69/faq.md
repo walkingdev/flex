@@ -41,6 +41,12 @@ T’inquiète pas, nous non plus ;)
 
 En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec nous sans être largué.
 
+### Mais c'est pas une formation ?
+
+Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
+
+On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
+
 ### On sera combien ?
 
 Au moins 2, maximum 8, probablement 6.
@@ -62,6 +68,8 @@ On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 20 minutes dan
 En éditant et remplissant le fichier qui va bien [inscriptions.md](https://github.com/walkingdev/flexbox/edit/master/v69/inscriptions.md).
 
 Tu peux aussi nous envoyer un petit mail : [erick@entre-quote.com](mailto:erick@entre-quote.com)
+
+Sinon sur [Eventbrite](https://www.eventbrite.com/e/flexbox-ma-sauver-tickets-33272301349)
 
 ### Ça coûte combien cette petite escapade ?
 
