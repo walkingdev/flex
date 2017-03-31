@@ -12,5 +12,5 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/flexbox/bl
 * *nom - prénom - moyens de contact *
 
 - Langlois - Stéphane - [@langlois_s](https://twitter.com/langlois_s)  
-- Gardin - Erick - erick@entre-quote.co - 06 78 33 74 12 - [@newick](https://twitter.com/newick)  
+- Gardin - Erick - erick@entre-quote.com - 06 78 33 74 12 - [@newick](https://twitter.com/newick)  
 - Parisot - Thomas - hi@oncletom.io - [@oncletom](https://twitter.com/oncletom)
