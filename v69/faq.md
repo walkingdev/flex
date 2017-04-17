@@ -10,7 +10,7 @@ image_url: https://github.com/walkingdev/flexbox/blob/master/media/banner-flexbo
 
 ### On va faire quoi ?
 
-Découvrir ensemble les propriétés CSS3 **flexbox** afin de passer d'un positionnement 
+Découvrir ensemble les propriétés CSS3 **flexbox** et **Grid** afin de passer d'un positionnement
 
 > **C**hiant et **S**érieusement **S**oporifique 
 
