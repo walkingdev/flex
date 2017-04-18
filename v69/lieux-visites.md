@@ -10,6 +10,7 @@ description: Lieux à visiter à Lyon
 * 2 Rue Camille Jordan - Les Voraces
 * La fourmilière
 * La Myne
+* 14, rue Paul Lafargue - Le Bieristan
 * La MJC Confluence
 * Le Zèbre
 * Maison du Chaos
