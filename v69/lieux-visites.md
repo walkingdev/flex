@@ -23,8 +23,16 @@ description: Lieux à visiter à Lyon
 * Musée des beaux arts
 * Place Bellevue
 * Tour Crayon - Bar du Radisson
+* Le jardin des curiosités
+* Le vin des vivants - Fernand Rey
+* Le bar des Capucins -
+* L'aquarium - Le plateau de la Croix Rousse
+* Le Sirius - sur les quais
+* L'alternatibar
+
 * 14, rue Paul Lafargue - Le Bieristan - Villeurbanne
 * Rita Plage - Bar d'un ami - cantine végétarienne - Villeurbanne
 * La Myne - Villeurbanne
+
 
 * Maison du Chaos
