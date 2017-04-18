@@ -29,6 +29,9 @@ description: Lieux à visiter à Lyon
 * L'aquarium - Le plateau de la Croix Rousse
 * Le Sirius - sur les quais
 * L'alternatibar
+* Indo Café (Guillotière)
+* au Café Tigre (Terreaux/X-Rousse)
+* aux Cafetiers (Cordeliers)
 
 * 14, rue Paul Lafargue - Le Bieristan - Villeurbanne
 * Rita Plage - Bar d'un ami - cantine végétarienne - Villeurbanne
