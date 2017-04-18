@@ -11,4 +11,5 @@ description: Lieux à visiter à Lyon
 * La fourmilière
 * La Myne
 * La MJC Confluence
+* Le Zèbre
 * ...
