@@ -22,7 +22,7 @@ description: Lieux à visiter à Lyon
 * Musée Gadagne - Vieux Lyon
 * Musée des beaux arts
 * Place Bellevue
-
+* Tour Crayon - Bar du Radisson
 * 14, rue Paul Lafargue - Le Bieristan - Villeurbanne
 * Rita Plage - Bar d'un ami - cantine végétarienne - Villeurbanne
 * La Myne - Villeurbanne
