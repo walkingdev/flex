@@ -11,7 +11,12 @@ description: Lieux à visiter à Lyon
 * La fourmilière
 * La Myne
 * 14, rue Paul Lafargue - Le Bieristan
-* La MJC Confluence
 * Le Zèbre
+* La guillotière - Soffa
 * Maison du Chaos
+* Terreau - Musée des beaux arts
+* La Guillotière - Macanudo - Café librairie
+* Le flaneur - 56, rue Sébastien Gryphe - www.leflaneur-guesthouse.com
+* Musée Gadagne
+* Musée des beaux arts
 * ...
