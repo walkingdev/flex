@@ -12,4 +12,5 @@ description: Lieux à visiter à Lyon
 * La Myne
 * La MJC Confluence
 * Le Zèbre
+* Maison du Chaos
 * ...
