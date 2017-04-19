@@ -10,6 +10,7 @@ description: Lieux à visiter à Lyon
 * La guillotière - Soffa
 * La Guillotière - Macanudo - Café librairie
 * Le flaneur - 56, rue Sébastien Gryphe - www.leflaneur-guesthouse.com
+* Torü - Rue René Leynaud
 
 # À faire
 * 26 Rue Sergent Blandan - La méduze - lameduze.fr
